@@ -1,0 +1,11 @@
+name,email,source,message,budget,response_time_minutes,score,reason,category
+Rahul,rahul@gmail.com,Website,Need urgent demo and pricing,Yes,5,11,"Keywords detected, Budget mentioned, Quick response, LLM: High intent, LLM: Urgent",Hot
+Amit,amit@gmail.com,Ad,Just checking features,No,30,0,,Cold
+Sneha,sneha@gmail.com,Referral,"Looking for implementation help, call me",Yes,8,8,"Keywords detected, Referral source, Budget mentioned, Quick response",Hot
+Karan,karan@gmail.com,Website,Please share cost details,Yes,12,2,Budget mentioned,Cold
+Neha,neha@gmail.com,Ad,Interested but need more information,No,25,0,,Cold
+Rohit,rohit@gmail.com,Referral,Urgent requirement for enterprise setup,Yes,4,13,"Keywords detected, Referral source, Budget mentioned, Quick response, LLM: High intent, LLM: Urgent",Hot
+Pooja,pooja@gmail.com,Website,Need demo next week,No,18,6,"Keywords detected, LLM: High intent",Warm
+Ankit,ankit@gmail.com,Ad,"Budget is tight, just exploring",No,40,0,,Cold
+Meera,meera@gmail.com,Referral,"Ready to proceed, send proposal",Yes,6,10,"Referral source, Budget mentioned, Quick response, LLM: High intent, LLM: Urgent",Hot
+Vikas,vikas@gmail.com,Website,Looking for pricing and onboarding process,Yes,10,8,"Keywords detected, Budget mentioned, LLM: High intent",Hot
